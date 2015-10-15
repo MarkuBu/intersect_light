@@ -1,0 +1,3 @@
+vmg_glowing_fungal.png  https://commons.wikimedia.org/wiki/File:Pulcherricium_caeruleum,_Cobalt_Crust_fungus.JPG
+vmg_glowing_fungus.png  VanessaE (https://forum.minetest.net/viewtopic.php?f=4&t=1583&hilit=hdx)
+vmg_moon_juice.png  VanessaE (https://forum.minetest.net/viewtopic.php?f=4&t=1583&hilit=hdx)
